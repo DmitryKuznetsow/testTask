@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Task1 {
-    public static void main(String[] args) {
+    public static void main(String[] args1) {
 
         if (args.length != 2) {
             System.out.println("Use: java Task1.java <length array n> <interval length m>");
